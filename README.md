@@ -16,10 +16,10 @@ Simple TICO-19 is released under a [CC BY-NC-SA 4.0](https://creativecommons.org
 
 ## Citation
 
-If you use Simple TICO-19 in your research, please cite [Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts]() (Shardlow & Alva-Manchego, LREC 2022).
+If you use Simple TICO-19 in your research, please cite [Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.331.pdf) (Shardlow & Alva-Manchego, LREC 2022).
 
 
-> Matthew Shardlow and Fernando Alva-Manchego. 2022. [Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts](). In *Proceedings of the 13th Language Resources and Evaluation Conference*, Marseille, France. European Language Resources Association.
+> Matthew Shardlow and Fernando Alva-Manchego. 2022. [Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.331.pdf). In *Proceedings of the 13th Language Resources and Evaluation Conference*, Marseille, France. European Language Resources Association.
 
 
 ```
@@ -32,6 +32,8 @@ If you use Simple TICO-19 in your research, please cite [Simple TICO-19: A Datas
     year = "2022",
     address = "Marseille, France",
     publisher = "European Language Resources Association",
-    language = "English",
+    url = "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.331.pdf",
+    pages = "3093--3102",
+    abstract = "Specialist high-quality information is typically first available in English, and it is written in a language that may be difficult to understand by most readers. While Machine Translation technologies contribute to mitigate the first issue, the translated content will most likely still contain complex language. In order to investigate and address both problems simultaneously, we introduce Simple TICO-19, a new language resource containing manual simplifications of the English and Spanish portions of the TICO-19 corpus for Machine Translation of COVID-19 literature. We provide an in-depth description of the annotation process, which entailed designing an annotation manual and employing four annotators (two native English speakers and two native Spanish speakers) who simplified over 6,000 sentences from the English and Spanish portions of the TICO-19 corpus. We report several statistics on the new dataset, focusing on analysing the improvements in readability from the original texts to their simplified versions. In addition, we propose baseline methodologies for automatically generating the simplifications, translations and joint translation and simplifications contained in our dataset.",
 }
 ```
