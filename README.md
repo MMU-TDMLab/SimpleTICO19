@@ -3,9 +3,9 @@
 Simple TICO-19 is a language resource that provides manual simplifications for the English and Spanish portions of the [TICO-19](https://tico-19.github.io/index.html) dataset for Machine Translation of COVID-19 content.
 Our goal is to contribute to research on joint machine translation and text simplification, as well as monolingual text simplification in the medical domain.
 
-<p>&nbsp;</p>
 
 ![Picture showing an example of a translation and simplification instance in the dataset](https://user-images.githubusercontent.com/2760680/173864779-2c8f020c-6d4c-4b80-b7f7-fe2344e133d4.png)
+
 
 This repository includes:
 
