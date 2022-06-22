@@ -20,7 +20,7 @@ Simple TICO-19 is released under a [CC BY-NC-SA 4.0](https://creativecommons.org
 
 ## Citation
 
-If you use Simple TICO-19 in your research, please cite:
+If you use Simple TICO-19 in your research, please cite our LREC 2022 paper:
 
 > Matthew Shardlow and Fernando Alva-Manchego. 2022. [Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.331.pdf). In *Proceedings of the 13th Language Resources and Evaluation Conference*, pages 3093-3102, Marseille, France. European Language Resources Association.
 
